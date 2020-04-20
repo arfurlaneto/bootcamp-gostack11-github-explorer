@@ -17,7 +17,7 @@ Install the dependencies
 ```
 yarn
 ```
-StarT the application. It runs at port 3000.
+Start the application. It runs at port 3000.
 ```
 yarn run start
 ```
